@@ -1,0 +1,49 @@
+#naglowek {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 2px;
+    padding: 20px;
+}
+
+#naglowek h1 {
+    color: rgb(222, 66, 66);
+    text-decoration: underline;
+}
+/* To jest komentarz dla programisty */
+#baner {
+    background-image: url('https://picsum.photos/1200/300?random=1');
+    background-size: cover; 
+    background-position: center;
+    text-align: center;
+    padding: 60px 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#tresc
+{
+    width: 100%;
+    background-color: lightgray;
+    padding: 20px 0;
+    min-height: 300px;
+}
+
+.wpis 
+{
+    width: 80%;
+    margin: 15px auto;
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    font-family: 'Helvetica', Arial, sans-serif;
+}
+
+.wpis .autor
+{
+    font-weight: bold;
+    font-size: 16px;
+    color: purple;
+    margin-bottom: 2px;
+}
